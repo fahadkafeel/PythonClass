@@ -205,89 +205,89 @@ for key, value in cities.items():
 print("-----END-----")
 
 
--------- OUTPUT -------
-First Name Muhammad
-Last Name Kafeel
-Age 35
-City Karachi
------END-----
-Person_name:Salman favourite number: 200
-
-Person_name:Ali favourite number: 539
-
-Person_name:Iqbal favourite number: 500
-
-Person_name:Noman favourite number: 60
-
-Person_name:Ahmed favourite number: 229
-
------END-----
-Variables:
-		A Variable Store A Value
-Integers:
-		It Is A Numeric Data Type
-List:
-		List Store A Multiple Value
-Tuple:
-		Tuple Is A Constant
-If_Statement:
-		It Is A Condition
------END-----
-Variables:
-		A Variable Store A Value
-Integers:
-		It Is A Numeric Data Type
-List:
-		List Store A Multiple Value
-Tuple:
-		Tuple Is A Constant
-If_Statement:
-		It Is A Condition
-Dictionary:
-		It Is Key Values Pair Value
-Input:
-		It Is Input A Value
-String:
-		It Is Store Alphabetic Value
-Forloop:
-		It Is Iteration
-Functions:
-		It Is Store Defination
------END-----
-The Nile runs through Egypt
-The Indus runs through Pakistan
-The Amazon runs through South America
-The Tigris River runs through Turkey
-The Chang Jiang runs through China
------END-----
------END-----
-{'Sarah', 'Persian'}
-{'Peter', 'Bull Dog'}
-{'Python', 'Harry'}
-{'Macaw', 'Suzain'}
------END-----
-Fahad  = ['Madina', 'Switzerland', 'Canada']
-Ali  = ['Dubai', 'Chitral', 'Paris']
-Ahmed  = ['England', 'NewYork', 'Saif ul Malook']
-Salman  = ['Irland', 'Zaiyarat', 'Oman']
------END-----
-Fahad's favorite numbers are :
-1
-2
-Ali's favorite numbers are :
-4
-5
-Salman's favorite numbers are :
-3
-17
-Noman's favorite numbers are :
-18
-0
-Iqbal's favorite numbers are :
-2
-1
------END-----
-City = Lahore , Country : Pakistan , Population 11.13 million , Fact  Heart of Pakistan
-City = Karachi , Country : Pakistan , Population 21.2 million , Fact  Ecnomical Hub
-City = Islamabad , Country : Pakistan , Population 1.152 million , Fact  Capital city of Pakistan
------END-----
+# -------- OUTPUT -------
+# First Name Muhammad
+# Last Name Kafeel
+# Age 35
+# City Karachi
+# -----END-----
+# Person_name:Salman favourite number: 200
+#
+# Person_name:Ali favourite number: 539
+#
+# Person_name:Iqbal favourite number: 500
+#
+# Person_name:Noman favourite number: 60
+#
+# Person_name:Ahmed favourite number: 229
+#
+# -----END-----
+# Variables:
+# 		A Variable Store A Value
+# Integers:
+# 		It Is A Numeric Data Type
+# List:
+# 		List Store A Multiple Value
+# Tuple:
+# 		Tuple Is A Constant
+# If_Statement:
+# 		It Is A Condition
+# -----END-----
+# Variables:
+# 		A Variable Store A Value
+# Integers:
+# 		It Is A Numeric Data Type
+# List:
+# 		List Store A Multiple Value
+# Tuple:
+# 		Tuple Is A Constant
+# If_Statement:
+# 		It Is A Condition
+# Dictionary:
+# 		It Is Key Values Pair Value
+# Input:
+# 		It Is Input A Value
+# String:
+# 		It Is Store Alphabetic Value
+# Forloop:
+# 		It Is Iteration
+# Functions:
+# 		It Is Store Defination
+# -----END-----
+# The Nile runs through Egypt
+# The Indus runs through Pakistan
+# The Amazon runs through South America
+# The Tigris River runs through Turkey
+# The Chang Jiang runs through China
+# -----END-----
+# -----END-----
+# {'Sarah', 'Persian'}
+# {'Peter', 'Bull Dog'}
+# {'Python', 'Harry'}
+# {'Macaw', 'Suzain'}
+# -----END-----
+# Fahad  = ['Madina', 'Switzerland', 'Canada']
+# Ali  = ['Dubai', 'Chitral', 'Paris']
+# Ahmed  = ['England', 'NewYork', 'Saif ul Malook']
+# Salman  = ['Irland', 'Zaiyarat', 'Oman']
+# -----END-----
+# Fahad's favorite numbers are :
+# 1
+# 2
+# Ali's favorite numbers are :
+# 4
+# 5
+# Salman's favorite numbers are :
+# 3
+# 17
+# Noman's favorite numbers are :
+# 18
+# 0
+# Iqbal's favorite numbers are :
+# 2
+# 1
+# -----END-----
+# City = Lahore , Country : Pakistan , Population 11.13 million , Fact  Heart of Pakistan
+# City = Karachi , Country : Pakistan , Population 21.2 million , Fact  Ecnomical Hub
+# City = Islamabad , Country : Pakistan , Population 1.152 million , Fact  Capital city of Pakistan
+# -----END-----
